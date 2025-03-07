@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1ffc0a70-f878-4ba4-a1f3-1fee237911aa}">
+		<property name="assetPath">
+			<value>SFX/Comic/surprise_1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.30579166666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1b4ca664-e2b7-4771-a71c-54568be9f950}</destination>
+		</relationship>
+	</object>
+</objects>

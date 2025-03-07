@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{95fbebbb-07ad-4759-a676-16cd615f3e44}">
+		<property name="assetPath">
+			<value>SFX/Crab SFX/Crabsteps_M4/CrabStep_6.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.046485260770975055</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1b4ca664-e2b7-4771-a71c-54568be9f950}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4d7f6510-fe8b-49ef-8e44-2fdb18b5da0e}">
+		<property name="assetPath">
+			<value>SFX/Urchin/Underwater-Sea-Urchin_Stop_SFX_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>16</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.3973125</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1b4ca664-e2b7-4771-a71c-54568be9f950}</destination>
+		</relationship>
+	</object>
+</objects>

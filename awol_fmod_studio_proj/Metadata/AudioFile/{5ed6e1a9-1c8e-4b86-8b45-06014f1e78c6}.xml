@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5ed6e1a9-1c8e-4b86-8b45-06014f1e78c6}">
+		<property name="assetPath">
+			<value>SFX/Crab SFX/Shell Swap/SFX_SwitchtoLightShell.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.28798185941043086</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1b4ca664-e2b7-4771-a71c-54568be9f950}</destination>
+		</relationship>
+	</object>
+</objects>
