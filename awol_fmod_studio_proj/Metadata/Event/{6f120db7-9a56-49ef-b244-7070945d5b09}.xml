@@ -5,7 +5,7 @@
 			<value>DoorMoveClose</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5ea2528f-e17b-464b-bba8-73e0c9958243}</destination>
@@ -56,7 +56,7 @@
 			<destination>{f7df2bfe-3421-498d-a352-da9587b56201}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{ca1ad8e9-14f9-4da2-83a7-e9a956e6c0aa}</destination>
+			<destination>{84ca3759-cf9c-4408-8200-e622b80b1916}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{0c55d3f3-2e97-4425-b442-34b7b3bacd71}" />
@@ -96,7 +96,6 @@
 	<object class="MixerBusEffectChain" id="{b14b00fb-b52d-4b49-af74-00d21984dc8e}">
 		<relationship name="effects">
 			<destination>{b8e4a68c-fe3c-41ac-930b-bfe02393d86d}</destination>
-			<destination>{25ff69b1-3963-4cb5-beec-e47e312f1f23}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3b158b2c-2298-4706-8ae0-68110877954f}" />
@@ -107,5 +106,4 @@
 	</object>
 	<object class="MixerBusFader" id="{281a2e76-9ea8-4cd5-9722-e7f29e6fcdfb}" />
 	<object class="MixerBusFader" id="{b8e4a68c-fe3c-41ac-930b-bfe02393d86d}" />
-	<object class="SpatialiserEffect" id="{25ff69b1-3963-4cb5-beec-e47e312f1f23}" />
 </objects>

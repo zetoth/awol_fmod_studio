@@ -5,7 +5,7 @@
 			<value>DoorMoveOpen</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{5ea2528f-e17b-464b-bba8-73e0c9958243}</destination>
@@ -56,7 +56,7 @@
 			<destination>{0d53edef-9f59-4a36-ab8e-af6188d31639}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{ca1ad8e9-14f9-4da2-83a7-e9a956e6c0aa}</destination>
+			<destination>{84ca3759-cf9c-4408-8200-e622b80b1916}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{9028b22a-fcc6-4fe6-bb84-763b4bfcc50c}" />
@@ -84,7 +84,7 @@
 	</object>
 	<object class="MultiSound" id="{20a2f52f-7b77-4845-9301-e537328e8af3}">
 		<relationship name="sounds">
-			<destination>{25041577-6024-4137-9c62-b2c57467decb}</destination>
+			<destination>{2fb78dde-e279-42a5-bbb8-5c0d9e111a5f}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusEffectChain" id="{948d34fc-e194-429f-b4ee-6f56c8b259ea}">
@@ -96,16 +96,14 @@
 	<object class="MixerBusEffectChain" id="{fe2c14e3-3ae2-4460-9e2b-e3f11a06c2eb}">
 		<relationship name="effects">
 			<destination>{8bdef243-8f32-477b-b0c8-7edda52f046a}</destination>
-			<destination>{7aef7b35-e286-4086-add3-088ce7f32cca}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{ecf8eaf1-f966-43f4-b1f1-0bba28f85f96}" />
-	<object class="SingleSound" id="{25041577-6024-4137-9c62-b2c57467decb}">
+	<object class="SingleSound" id="{2fb78dde-e279-42a5-bbb8-5c0d9e111a5f}">
 		<relationship name="audioFile">
-			<destination>{a655535f-cbe5-4324-8fb0-61d87ec0fee8}</destination>
+			<destination>{c58a08de-ed41-46ec-a1c9-4b848f8f3ef9}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusFader" id="{c4addca5-710d-49e5-bd3e-e416eefb960b}" />
 	<object class="MixerBusFader" id="{8bdef243-8f32-477b-b0c8-7edda52f046a}" />
-	<object class="SpatialiserEffect" id="{7aef7b35-e286-4086-add3-088ce7f32cca}" />
 </objects>
